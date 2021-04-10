@@ -1,0 +1,42 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+
+}
+h1{
+  margin: 0;
+  padding-left: 20px;
+  padding-top: 20px;
+  font-family: 'Sacramento',cursive;
+}
+p{
+  padding-left: 20px;
+}
+.top-container{
+  background-color: #e7d9ea;
+
+}
+.middle-container{
+  background-color: #eabf9f;
+
+}
+.bottom-container{
+  background-color: #eabf9f;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+hr {
+
+  background-color: none;
+  border-style: dotted none none;
+  border-color:grey;
+  border-width: 5px;
+  width: 5%;
+}
+skill-row{
+  text-align: left;
+}
